@@ -1,0 +1,53 @@
+[
+  {
+    "question_number": 1,
+    "question": "Which of the following commands is used to create react-js-app?",
+    "answers": [
+      "npx create-react-app appname",
+      "npm install create-react-app",
+      "npx install create-react-app-g",
+      "install -l create-react-app"
+    ],
+    "correct_answer": "npx create-react-app appname"
+  },
+  {
+    "question_number": 2,
+    "question": "Which of the following command is used to create react-js-app?",
+    "answers": [
+      "State & Props",
+      "Services & Components",
+      "State & Services",
+      "State & Component"
+    ],
+    "correct_answer": "State & Props"
+  },
+  {
+    "question_number": 3,
+    "question": "What command is used to start the React local development server?",
+    "answers": ["npm serve", "npm run dev", "npm start", "npm build"],
+    "correct_answer": "npm start"
+  },
+  {
+    "question_number": 4,
+    "question": "Which operator can be used to conditionally render a React component?",
+    "answers": ["||", "&&", "::", "??"],
+    "correct_answer": "&&"
+  },
+  {
+    "question_number": 5,
+    "question": "When rendering a list using the JavaScript map() method, what is required for each element rendered?",
+    "answers": ["index", "id", "data", "key"],
+    "correct_answer": "key"
+  },
+  {
+    "question_number": 6,
+    "question": "What is the correct syntax to import a Component from React?",
+    "answers": [
+      "import React.Component from 'react",
+      "import {Component} from 'react",
+      "import [Component] from 'react'",
+      "import Component from 'react"
+    ],
+    "correct_answer": "import {Component} from 'react"
+  }
+]
